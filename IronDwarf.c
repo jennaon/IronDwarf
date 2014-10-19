@@ -89,7 +89,7 @@ void options( void ){
 	}
 
 	backthefuckup = PORTDbits.RD7;
-	if(backthefuckup==1){ //backs the fuck up
+	if(backthefuckup==1){ //back up
 		reverse(5); 
 		turnright(10);
 	}
